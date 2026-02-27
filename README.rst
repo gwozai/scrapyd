@@ -9,8 +9,8 @@ It allows you to upload Scrapy projects and control their spiders using a JSON A
 .. |PyPI Version| image:: https://img.shields.io/pypi/v/scrapyd.svg
    :target: https://pypi.org/project/scrapyd/
 .. |Build Status| image:: https://github.com/scrapy/scrapyd/workflows/Tests/badge.svg
-.. |Coverage Status| image:: https://coveralls.io/repos/github/scrapy/scrapyd/badge.svg?branch=master
-   :target: https://coveralls.io/github/scrapy/scrapyd?branch=master
+.. |Coverage Status| image:: https://codecov.io/github/scrapy/scrapyd/graph/badge.svg
+   :target: https://codecov.io/github/scrapy/scrapyd
 .. |Python Version| image:: https://img.shields.io/pypi/pyversions/scrapyd.svg
    :target: https://pypi.org/project/scrapyd/
 .. |Pypi Downloads| image:: https://img.shields.io/pypi/dm/scrapyd.svg
